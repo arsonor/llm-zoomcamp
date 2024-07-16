@@ -10,6 +10,8 @@ openai = "*"
 elasticsearch = "*"
 pandas = "*"
 scikit-learn = "*"
+dlt = {extras = ["lancedb"], version = "==0.5.1a0"}
+sentence-transformers = "*"
 
 [dev-packages]
 
