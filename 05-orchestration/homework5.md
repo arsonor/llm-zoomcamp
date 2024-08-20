@@ -51,7 +51,7 @@ Start it:
 
 Now mage is running on [http://localhost:6789/](http://localhost:6789/)
 
-What's the version of mage? 
+What's the version of mage? **v0.9.72**
 
 ## Creating a RAG pipeline
 
@@ -73,12 +73,7 @@ Which is the document ID of
 [LLM FAQ version 1](https://docs.google.com/document/d/1qZjwHkvP0lXHiE4zdbWyUXSVfmVGzougDD6N37bat3E/edit)
 
 Copy the code to the editor
-How many FAQ documents we processed?
-
-* 1
-* 2
-* 3
-* 4
+How many FAQ documents we processed? **1**
 
 ## Q3. Chunking
 
@@ -138,7 +133,7 @@ How many documents (chunks) do we have in the output?
 
 * 66
 * 76
-* 86
+* **86**
 * 96
 
 
